@@ -1,4 +1,3 @@
-Sure, here is the text flared up using Markdown syntax:
 Our end of semester Project in AI course
 
 This project builds on the basic concepts of Artificial Intelligence like Neural Networks, k-means, etc. It is written in Python in Google Colab.
