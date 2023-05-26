@@ -9,4 +9,4 @@ Second phase of project
 In the second phase of the project, we used sci-kitlearn's dataset available to us for joining and predictions.
 Refer to project_description.md for complete project report
 
-The complete project report is available in the file project_description.md.
+The complete project report is available in the file [project_description.md](https://github.com/AmmarAhmedl200961/Medical-Health-Record-Analysis-Prediction/blob/7f312739c5d798b1ad476c76ab0cac8b40e30190/project_description.md).
